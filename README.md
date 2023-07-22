@@ -85,5 +85,5 @@ https://tesla-clone-teal.vercel.app/
 open it on desktop
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# Thanks for visiting🤗
+# Made with ❤️ by [arpanaditya](https://linkedin.com/in/arpan-aditya).
 
